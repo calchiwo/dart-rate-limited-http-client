@@ -96,4 +96,8 @@ The client handles real-world failure modes:
 
 ## License
 
-[MIT](LICENSE)
+[MIT LICENSE](LICENSE)
+
+## Authour
+
+Caleb Wodi (https://github.com/calchiwo)
