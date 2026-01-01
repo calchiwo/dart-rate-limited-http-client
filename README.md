@@ -100,4 +100,4 @@ The client handles real-world failure modes:
 
 ## Authour
 
-Caleb Wodi (https://github.com/calchiwo)
+[Caleb Wodi](https://github.com/calchiwo)
