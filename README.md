@@ -96,4 +96,4 @@ The client handles real-world failure modes:
 
 ## License
 
-(MIT)[LINCENSE]
+(MIT)[LICENSE]
